@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/laptop.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Stylish Laptop image";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Little Lemon Restaurant 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Welcome to the Little Lemon Restaurant Django web project! This project is designed to showcase a simple restaurant website with features like booking, menu display, and more.",
+    url: "https://hamzasajjad141.github.io/Little-Lemon-Restaurant/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "4d-Notepad-DataStructures-Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Welcome to the Notepad Project, a simple console-based notepad implementation in C++ designed to run on Visual Studio. This project allows users to perform various text-related operations such as inserting, deleting, searching, copying, pasting, finding and replacing text, counting total words, and more.",
+    url: "https://github.com/HamzaSajjad141/4d-Notepad-DataStructures-Project",
   },
   {
-    title: "My Resume Site",
+    title: "Predicting-DiabetesMellitus-Using-MachineLearning-Techniques",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/HamzaSajjad141/Predicting-DiabetesMellitus-Using-MachineLearning-Techniques",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "LeetCode_Question_Find-the-Index-of-the-First-Occurrence-in-a-String",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://github.com/HamzaSajjad141/LeetCode_Question_Find-the-Index-of-the-First-Occurrence-in-a-String",
   },
 ];
 
